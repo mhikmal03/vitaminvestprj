@@ -1,0 +1,187 @@
+/* untuk header*/
+.main-nav {
+    background-color: #001219;
+}
+.main-nav .navbar-nav a.nav-link {
+    color: #fff;
+    font: weight 600;
+}
+.main-nav .navbar-nav .nav-link.active, .main-nav .navbar-nav .nav-link:hover {
+    color: #ee9b00;
+}
+.navbar.scrolled {
+    background-color: #fff;
+    transition: background-color 0.5s ease;
+    box-shadow: 0px --10px 30px #666;
+}
+.navbar.scrolled a.nav-link{
+    color: #000000;
+}
+.navbar img.main-logo {
+    max-width: 150px;
+}
+
+/* untuk umum */
+.main-biru {
+    background-color: #001219;
+    color: #fff;
+}
+.main-biru h2 span {
+    color: #ee9b00;
+}
+button.btn-primary {
+    background-color: #001219;
+}
+.main-biru h2 {
+    font-size: xx-large;
+}
+.navbar-nav .nav-link.active {
+    font-size: x-large;
+}
+.navbar-nav .nav-link {
+    font-size: x-large;
+}
+img.kiri{
+    float: left;
+    margin: 0 px;
+}
+#main-bagianbawahjumbotron img {
+    max-height: 50px; 
+    max-width: 150px;
+}
+#main-bagianbawahjumbotron a {
+    display: inline-block;
+    word-spacing: 20px;
+    margin-right: 20px;
+    margin-bottom: 20px;
+}
+h2.main-judul::after {
+    margin:auto;
+    margin-top:  15px;
+    display:block;
+    border-bottom: 5px solid
+    #168aad;
+    width: 100px;
+    border-radius: 25px;
+    content: "";
+    
+}
+.main-grey {
+    background-color: #ee9b00;
+}
+.main-atasjudul {
+    color: #000000;
+    font-size: 22px;
+    font-weight: 600;
+}
+.awmemew {
+    color: #fff;
+}
+.awmemew2 {
+    color: #fff;
+}
+.awmemew3 {
+    color: #fff;
+}
+.mantapbetul {
+    background-color: #14213d;
+}
+.main-judul {
+    color: #fff;
+}
+.mantapaw {
+    color: #fff ;
+}
+.mainupgrade2 {
+    background-color: #e5e5e5;
+}
+.subscribebagian {
+    background-color: #14213d;
+}
+.subscribebagian2 {
+    color: #fff;
+}
+.form-control {
+    
+    
+}
+.main-related {
+    background-color: black;
+}
+h2.main-judul2::after {
+    margin:auto;
+    margin-top:  15px;
+    display:block;
+    border-bottom: 5px solid
+    #fff;
+    width: 100px;
+    border-radius: 25px;
+    content: "";
+}
+.main-judul2 {
+    color: chocolate;
+    font-size: xx-large;
+    font-size: 45px;
+}
+.main-loremcard {
+    color: #fff;
+    margin-top: 20px;
+}
+.card{
+    margin-top: 30px;
+    
+}
+.main-blog-info img {
+    width: 30px;
+    height: 40px;
+    margin-right: 5px;
+    border-radius: 50%;
+    float: left;
+}
+.main-blog-info img {
+    margin-right: 5px;
+    margin-top: 4px;
+}
+.main-blog-info {
+    color: #666;
+    position: relative;
+}
+.main-blog-info a {
+    color: #666;
+    text-decoration: none;
+}
+.main-blog-info a:hover {
+    color: #ee9b00;
+}
+.main-blog-info span {
+    font-size: 14px;   
+}
+.card-body a {
+    text-decoration: none;
+    color: #000000;
+}
+.card-body a:hover {
+    color: #ee9b00;
+}
+.card {
+    height: 700px;
+}
+.mantapenak {
+    width: 300px;
+}
+.main-cardaja {
+    width: 1000px;
+    height: 600px;
+    
+}
+.container {
+    align-items: stretch;
+}
+.d-block a {
+    text-decoration: none;
+    color: #000000;
+}
+.form-control  {
+    max-width: 1000px;
+    display: inline-block;
+}
